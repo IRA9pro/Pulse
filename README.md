@@ -1,17 +1,18 @@
-# pulse
+# 🫀 Pulse
+> "Feel the beat of your life"
 
-Feel the beat of your life
+A premium, dark-mode personal productivity app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech & OS Support
+* **Frontend:** Flutter
+* **Backend:** Supabase
+* **Supported OS:** Android, iOS, macOS, Windows, Linux, and Web
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Folder Structure
+* `lib/core/` — Global setup, services, and themes.
+* `lib/features/` — Independent app tools (tasks, habits, journal).
+* `lib/system/` — Main app shell, login screens, and dashboard.
